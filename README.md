@@ -2,7 +2,8 @@
 My Solution to the Evolv Machine Learning Challenge.
 
 Initial Model:
-![image](https://user-images.githubusercontent.com/13780335/118634027-b95eda00-b7ef-11eb-9ce1-e677bb4fb371.png)
+![graphs](https://user-images.githubusercontent.com/13780335/118635654-756cd480-b7f1-11eb-87b9-b36023546312.png)
+
 
 - Low Validation Accuracy: ~40%
 - 576 Images, 15 Classes used with composition:
