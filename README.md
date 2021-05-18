@@ -2,7 +2,8 @@
 My Solution to the Evolv Machine Learning Challenge.
 
 Initial Model:
-![graphs](https://user-images.githubusercontent.com/13780335/118635654-756cd480-b7f1-11eb-87b9-b36023546312.png)
+![download (1)](https://user-images.githubusercontent.com/13780335/118635995-d3012100-b7f1-11eb-8bac-4dbc336ce129.jpg)
+
 
 
 - Low Validation Accuracy: ~40%
